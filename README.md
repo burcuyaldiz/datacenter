@@ -1,1 +1,2 @@
 # datacenter
+Git öğreniyorum
